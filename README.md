@@ -43,7 +43,8 @@ SEQUENCE DIAGRAM
 
 
 ACTIVITY DIAGRAM
-<img width="677" height="898" alt="image" src="https://github.com/user-attachments/assets/21341dd9-c10e-421e-960d-28c3206f781c" />
+
+<img width="877" height="898" alt="image" src="https://github.com/user-attachments/assets/21341dd9-c10e-421e-960d-28c3206f781c" />
 
 
 
