@@ -32,8 +32,9 @@ PACKAGE DIAGRAM
 
 
 
-COMMUNICTAION DIAGRAM
-<img width="776" height="663" alt="image" src="https://github.com/user-attachments/assets/5fc42d04-a2eb-4677-acb9-d0af4bf0f05a" />
+COMMUNICTAION DIAGRAM]
+
+<img width="876" height="663" alt="image" src="https://github.com/user-attachments/assets/5fc42d04-a2eb-4677-acb9-d0af4bf0f05a" />
 
 
 SEQUENCE DIAGRAM
